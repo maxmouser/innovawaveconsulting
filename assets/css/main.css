@@ -3512,7 +3512,7 @@ input, select, textarea {
 		}
 
 	#footer > .inner .menu {
-		font-size: 0.8em;
+		font-size: 1.2em;
 		color: rgba(255, 255, 255, 0.15);
 	}
 
@@ -3881,7 +3881,7 @@ input, select, textarea {
 	}
 
 		#intro p {
-			font-size: 1.25em;
+			font-size: 1.4em;
 		}
 
 			@media screen and (max-width: 980px) {
